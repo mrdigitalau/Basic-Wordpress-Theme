@@ -1,0 +1,10 @@
+html {
+      height:100%;
+}
+body {
+      background:rgb(85, 85, 85);
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      height:100%;
+}
